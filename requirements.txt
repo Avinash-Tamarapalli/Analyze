@@ -1,0 +1,14 @@
+ipykernel
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+scikit-learn
+plotly
+chart_studio
+openpyxl
+sweetviz
+ipywidgets
+nbformat
+folium

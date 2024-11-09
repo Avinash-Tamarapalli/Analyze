@@ -10,8 +10,8 @@ Welcome to the Data Analysis Project Repository! This repository contains multip
 - [Project Structure](#project-structure)
 - [Installation and Setup](#installation-and-setup)
 - [Projects](#projects)
-  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-  - [Real-World Use Cases](#real-world-use-cases)
+  - [Python](#python)
+  - [SQL](#SQL)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
@@ -30,6 +30,8 @@ The repository is organized as follows:
 
 - **Python**: Contains exploratory data analysis projects [categorized by dataset].
 - **SQL**: Contains data analysis projects using sql and a combination with python and other tools [categorized by dataset].
+- **Excel**: Contains data analysis projects using Excel and a combination with other tools [categorized by dataset].
+
 
 ---
 
@@ -39,23 +41,30 @@ To run these projects locally:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/DSProjects.git
+   git clone https://github.com/Avinash-Tamarapalli/Analyze.git
    cd Analyze
    ```
 
 2. **Set Up a Virtual Environment(recommended)**:
    ```
-   git clone https://github.com/your-username/DSProjects.git
+   git clone https://github.com/Avinash-Tamarapalli/Analyze.git
    cd Analyze
    ```
 
 3. **Install Required Libraries**:
    ```
-   git clone https://github.com/your-username/DSProjects.git
+   git clone https://github.com/Avinash-Tamarapalli/Analyze.git
    cd Analyze
    ```
 
 
+## Projects
+
+- **Python**
+    - **Uber Analysis**:
+        - **Description**: Overview of the dataset, key questions, and insights.
+        - **Techniques** Used: Data wrangling, basic statistical analysis, visualization.
+        - **Location**: Python/Uber
 
 
 ## Technologies Used
